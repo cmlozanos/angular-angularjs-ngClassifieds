@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/cmlozanos/angular-angularjs-ngClassifieds/issues"
   },
-  "homepage": "https://github.com/cmlozanos/angular-angularjs-ngClassifieds#readme"
+  "homepage": "https://github.com/cmlozanos/angular-angularjs-ngClassifieds#readme",
+  "dependencies": {
+    "angular-material": "^1.1.8",
+    "mdi": "^2.2.43"
+  }
 }
